@@ -1,0 +1,19 @@
+# Dependencies
+node_modules
+
+# Build artifacts
+dist
+build
+coverage
+
+# Infrastructure / local state
+.terraform
+
+# Generated outputs
+gen
+descriptors
+
+# Local project/runtime directories
+tmp
+.expo
+.next
