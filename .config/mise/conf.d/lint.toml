@@ -1,0 +1,7 @@
+##@ Lint and Formatting
+
+[tasks.format]
+depends = ["format:*"]
+
+[tasks."format:misc"]
+run = "oxfmt ."
