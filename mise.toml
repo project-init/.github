@@ -1,0 +1,6 @@
+[tools]
+# Markdown
+oxfmt = "0.79.0"
+
+[settings]
+experimental = true
